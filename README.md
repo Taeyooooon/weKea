@@ -1,5 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&text=weKea&color=gradient)
 
+- 가구 판매 웹사이트를 모델링한 프로젝트 입니다.
 - 감성을 판매하는 가구 브랜드 웹서비스를 구현했습니다.
 - 외부 라이브러리를 최소한으로 활용하여 초기세팅부터 직접 구현했습니다
 </br>
