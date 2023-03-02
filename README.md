@@ -1,13 +1,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&text=weKea&color=gradient)
 
 - 가구 판매 웹사이트를 모델링한 프로젝트 입니다.
-- 감성을 판매하는 가구 브랜드 웹서비스를 구현했습니다.
-- 외부 라이브러리를 최소한으로 활용하여 초기세팅부터 직접 구현했습니다
+- 외부 라이브러리를 최소한으로 활용하여 초기세팅부터 직접 구현했습니다.
 </br>
 
 # 개발 기간
 
-- 22.12.02~22.12.16
+- 22.12.02~22.12.16 (2주)
 </br>
 
 # 깃허브 링크
@@ -20,16 +19,11 @@
 
 # 개발 인원 및 파트
 
-| 김태윤 (FE) | 네비게이션바, Footer, 카테고리, 장바구니 | <a href="https://github.com/Taeyooooon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> |
+| 김태윤 (FE) | GNB, Footer, 카테고리, 장바구니 | <a href="https://github.com/Taeyooooon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> |
 | --- | --- | --- |
 | 문승훈 (FE) | 로그인, 장바구니 | <a href="https://github.com/Moonseunghun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> |
 | 배효빈 (FE) | 회원가입, 메인페이지, 상세 페이지 |  <a href="https://github.com/HyobinBae"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> |
 
-</br>
-
-| 윤형준 (BE) | 초기세팅, 모델링, 로그인 / 회원가입 API, 상품 필터링 API, 장바구니 API | <a href="https://github.com/hysy9255"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> |
-| --- | --- | --- |
-| 임다슬 (BE) | 초기세팅, 모델링, 카테고리별 상품 리스트 API, 상세 페이지 API | <a href="https://github.com/gkgkda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> |
 
 </br>
 
@@ -43,12 +37,6 @@
 
 
 </br>
-
-### 백엔드
-
-|JavaScript|Nodejs|MySql|Rest|
-| :--: | :--: | :--: | :--: |
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /> |
 
 
 
